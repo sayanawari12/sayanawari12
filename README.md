@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sayan</h1>
-<h3 align="center">🚀 Future Full Stack Developer | Java & Web Learner</h3>
+<h1 align="center">⚡ Sayan | Full Stack Developer in Progress ⚡</h1>
 
-<img align="right" alt="coding" width="300" 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
-
-### 💻 About Me
-- 🎓 BCA Student  
-- ☕ Currently learning Java & Full Stack Development  
-- 🔥 Daily coding & GitHub practice  
-- 🎯 Goal: Become a skilled Full Stack Developer  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Java+Developer;Future+Full+Stack+Engineer;Daily+Coding+%26+Building;GitHub+is+my+Playground" />
+</p>
 
 ---
 
-### 🚀 Languages & Tools
-- Java  
-- HTML  
-- CSS  
-- JavaScript (learning)  
-- Git & GitHub  
+## 🧠 About Me
+💻 BCA Student  
+🚀 Learning Full Stack Development  
+☕ Java + Web Development  
+🔥 Consistent Daily Coding  
+🎯 Goal: Become a Strong Developer  
 
 ---
 
-### 📊 GitHub Stats
-![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanawari12&show_icons=true&theme=tokyonight)
+## ⚒ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-la)
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sayanawari12&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username
+
