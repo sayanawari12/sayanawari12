@@ -7,11 +7,12 @@
 ---
 
 ## 🧠 About Me
-💻 BCA Student  
-🚀 Learning Full Stack Development  
-☕ Java + Web Development  
-🔥 Consistent Daily Coding  
-🎯 Goal: Become a Strong Developer  
+💻 Self-driven developer focused on building strong coding skills  
+🚀 Exploring Java and Full Stack Development  
+⚡ Love solving problems and creating projects  
+🔥 Daily practice and continuous learning  
+🎯 On a journey to become a professional developer
+  
 
 ---
 
