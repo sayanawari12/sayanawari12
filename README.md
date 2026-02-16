@@ -1,32 +1,32 @@
-<h1 align="center">⚡ Sayan | Java & Full Stack Developer ⚡</h1>
+<h1 align="center">⚡ Sayan | Learning Full Stack Development ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Learner;Daily+Coding+%26+Building;GitHub+is+my+Playground" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Learning+Full+Stack+Development;Java+Programmer;Building+Projects+Daily;Future+Software+Developer" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-💻 Self-driven developer focused on strong coding skills  
-🚀 Learning Java & Full Stack Development  
-⚡ Love building projects and solving problems  
-🔥 Consistent coding and growth mindset  
-🎯 Goal: Become a professional developer  
+💻 Passionate about coding and building real projects  
+🚀 Currently learning Java & Full Stack Development  
+⚡ Improving problem solving and development skills  
+🔥 Consistent daily coding and project building  
+🎯 Focused on becoming a skilled software developer  
 
 ---
 
 ## ⚒ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,react,nodejs" />
 </p>
 
 ---
 
 ## 🏆 Current Focus
 - 🚀 Mastering Java  
-- 🌐 Full Stack Development  
-- 💡 Problem Solving  
-- 🔥 Daily GitHub Practice  
+- 🌐 Learning Full Stack Development  
+- 💡 Strengthening logic building  
+- 🔥 Daily GitHub contributions  
 
 ---
 
@@ -45,25 +45,18 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 👀 Profile Visitors
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://komarev.com/ghpvc/?username=sayanawari12&label=Profile%20Views&color=00f7ff&style=flat" />
 </p>
 
 ---
 
 ## 🌐 Portfolio (Coming Soon)
-🚀 Working on my personal developer portfolio  
-Will showcase projects and skills here soon  
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sayanawari12&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+🚀 Working on my personal portfolio website  
+Will showcase my projects and skills here  
 
 ---
 
 ## 💭 Developer Mindset
-> Eat 🍜 Code 💻 Sleep 😴 Repeat 🔁
+> Code. Learn. Build. Repeat. 🚀
