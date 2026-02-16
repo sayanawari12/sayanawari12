@@ -9,38 +9,38 @@
 ## 👨‍💻 About Me
 💻 Passionate about coding and building real projects  
 🚀 Currently learning Java & Full Stack Development  
-⚡ Improving problem solving and development skills  
-🔥 Consistent daily coding and project building  
-🎯 Focused on becoming a skilled software developer  
+⚡ Improving logic and development skills  
+🔥 Consistent coding and project building  
+🎯 Focused on becoming a strong developer  
 
 ---
 
 ## ⚒ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,react,nodejs&theme=dark" />
 </p>
 
 ---
 
 ## 🏆 Current Focus
 - 🚀 Mastering Java  
-- 🌐 Learning Full Stack Development  
-- 💡 Strengthening logic building  
-- 🔥 Daily GitHub contributions  
+- 🌐 Full Stack Development  
+- 💡 Problem Solving  
+- 🔥 Daily GitHub Practice  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sayanawari12&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanawari12&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayanawari12&show_icons=true&theme=tokyonight&bg_color=00000000&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanawari12&layout=compact&theme=tokyonight&bg_color=00000000&border_radius=10" height="165"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Contribution Graph
 <p align="center">
-<img src="https://raw.githubusercontent.com/sayanawari12/sayanawari12/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanawari12&theme=react-dark"/>
 </p>
 
 ---
@@ -52,11 +52,5 @@
 
 ---
 
-## 🌐 Portfolio (Coming Soon)
-🚀 Working on my personal portfolio website  
-Will showcase my projects and skills here  
-
----
-
 ## 💭 Developer Mindset
-> Eat 🍜 Code 💻 Sleep 😴 Repeat 🔁
+> Code. Learn. Build. Repeat. 🚀
