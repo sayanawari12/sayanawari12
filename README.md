@@ -53,4 +53,4 @@
 ---
 
 ## 💭 Developer Mindset
-> Code. Learn. Build. Repeat. 🚀
+> Eat 🍜 Code 💻 Sleep 😴 Repeat 🔁
