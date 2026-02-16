@@ -38,9 +38,9 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 🐍 Contribution Snake
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanawari12&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/sayanawari12/sayanawari12/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
