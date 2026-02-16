@@ -59,4 +59,4 @@ Will showcase my projects and skills here
 ---
 
 ## 💭 Developer Mindset
-> Code. Learn. Build. Repeat. 🚀
+> Eat 🍜 Code 💻 Sleep 😴 Repeat 🔁
